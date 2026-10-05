@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Morris;Nikolas;;;
+FN:Nikolas Morris
+TITLE:[MAJOR] Student
+ORG:[UNIVERSITY]
+EMAIL;TYPE=INTERNET:[YOUR-EMAIL]
+URL:https://niko2421.github.io/NikolasMorris-Website/
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/[YOUR-LINKEDIN]
+NOTE:Met at a career fair — check out my website for my resume and projects.
+END:VCARD
